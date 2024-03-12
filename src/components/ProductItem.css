@@ -1,0 +1,24 @@
+.product-item {
+    border: 1px solid #e3e4e5;
+  }
+  
+  .product-item img {
+    width: 100%;
+  }
+  
+  .product-info {
+    padding: 10px;
+  }
+  
+  .product-title {
+    font-weight: bold;
+  }
+  
+  .product-price {
+    font-size: 14px;
+  }
+
+  h2{
+    margin: 0;
+  }
+  
